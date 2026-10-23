@@ -62,7 +62,7 @@ The Excel sheets were profiled before loading. Missing values and exact duplicat
 
 ## 🧩 Data Model
 
-![Data Model](05_Images/Data_Table_Relation.png)
+![Data Model](https://github.com/suman233/ecommerce-sales-business-analysis/blob/main/Power%20BI%20Images/Dashboard.png)
 
 The model contains **Orders, Orders (2), Returns, People and Calendar**.
 
